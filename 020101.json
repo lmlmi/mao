@@ -101,7 +101,7 @@
 {"key":"*CK资源(VPN)","name":"*CK资源(VPN)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0}
 ],
 //以下直播列表
-"lives": [{"group": "CCTV","channels": [{"name":"CCTV-1","urls":["http://111.63.117.13:6060/030000001000/G_CETV-1/G_CETV-1.m3u8"]},
+"lives": [{"group": "CCTV","channels": [{"name":"CCT-1","urls":["http://111.63.117.13:6060/030000001000/G_CETV-1/G_CETV-1.m3u8"]},
 {"name":"CCTV-2","urls":["http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8"]},
 {"name":"CCTV-3","urls":["http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8"]},
 {"name":"CCTV-4","urls":["http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8"]},
