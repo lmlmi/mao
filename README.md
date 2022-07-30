@@ -1,229 +1,186 @@
-### [BiuBiuTV](./BiuBiuTV.md)（支持添加片源接口）
 
-# MaoTV
+
+# TVBox
 
 - [使用方法](./usage.md)
 
-### 猫影视资源接口外链托管网址：感觉哪个好用用哪个，自己测试。
+### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
 
-1.比邻（TXT支持编辑）:收费啦。富裕的可以使用。
+1、比邻（TXT支持编辑）:收费啦。富裕的可以使用。 https://pan.bilnn.com/api/v3/share/invite/bmB58Te
 
-https://pan.bilnn.com/api/v3/share/invite/bmB58Te
+2、往事、彩虹: https://wp.wangshi520.com/   不能在线编辑
 
-2.往事:
+3、书源: https://shuyuan.miaogongzi.net/   不能在线编辑
 
-https://wp.wangshi520.com/
+4、猫猫外链： http://mmwl.88wg.top/  不能在线编辑
 
-3.OpenDrive:
+5、惜染 https://mpimg.cn/  不能在线编辑
 
-https://www.opendrive.com/
+6、OpenDrive: https://www.opendrive.com/   能在线编辑，慢
 
-4.书源:
+7、晴园: http://52qy.vaiwan.cn/up.php  打不开了
 
-https://shuyuan.miaogongzi.net/
+8、tigerroot: https://pan.tigerroot.cn/   停运
 
-5.晴园:
+9、云星、吾爱云盘（完全免费） https://pan.css.lc/   能在线编辑
 
-http://52qy.vaiwan.cn/up.php
+Pan云盘APP、密码:49mz https://wwc.lanzoub.com/b0erzmzqf
 
-6.tigerroot:
+10、nite07网盘 https://share.nite07.com
 
-https://pan.tigerroot.cn/
+11、ifilespace https://demo.ifile.space/main
 
-7、猫猫外链： 
+12、七彩云存储：  https://cloud.06dn.com/login
 
-http://mmwl.88wg.top/
+13、https://pan.fgboke.com  打不开
 
-8、云星、吾爱云盘（完全免费）
+14、豆子外链： http://zuoye.free.fr/index.php   限制文件格式
 
-https://pan.css.lc/
+15、棱束链： https://www.lingshulian.com/
 
-Pan云盘APP、密码:49mz
+16、可直链下载的免费存储空间：https://my.ksust.com/kstore.htm
 
-https://wwc.lanzoub.com/b0erzmzqf 
+17、乐分发存储：https://pan.leffs.cn/Login
 
+18、https://gitea.com/
 
-9、可以把长外链变成短外链。有人说不太稳定，看自己情况。
+19、https://gitee.com/
+
+20、云储 https://yunchu.cxoip.com/
+
+21、腾讯云 https://coding.net/
+
+22、https://www.jsdelivr.com/
+
+## 短链接制作网址：哪个稳定自己测试。
 
 https://gg.gg
 
-10、nite07网盘
+https://77url.com/
 
-https://share.nite07.com
+https://qiu.moe/
 
-11、ifilespace
+https://www.c1n.cn/
 
-https://demo.ifile.space/main
+http://pesc.pw/
+
+https://0dlj.cn/
+
+https://0a.fit/
+
+http://mtw.so/
+
+https://app.short.io/
+
+https://sd4.cn/ 
+
+## 壁纸：
+
+http://www.kf666888.cn/api/tvbox/img
+
+https://picsum.photos/1280/720/?blur=10
+
+https://qiu.moe/a723
+
+
+## 解析测试：
+
+http://www.36nu.com/apiTest
 
 ### 更新
 
-TVbox更新后，一些在线接口的收集，主要收集一些经常维护的。
+## 多jar链接写法，根据app版本来：
 
-1、公众号：吾爱有三日月与卿
+## Pluto Player版本：
 
-http://gg.gg/TVBOX-Pro
+{"key":"***","name":"***","api":"***","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http://****/*.jar"},
+
+## 这个：
+
+{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"spider":"http://****/*.jar"},
+
+## 俊佬版本多jar链接写法：
+
+{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
+
+
 
 ### 接口
 
-2.1.0版本专用接口：
+接口1:http://刚刚.live/猫
 
-爬虫源
+接口2:http://maoyingshi.cc/tvbox/云星日记/1.json
 
-https://wds.ecsxs.com/212757.json
+接口3:https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
-https://tool.wotianna.com/mysjk.json
+接口4：https://gitea.com/Pandora2277/TV/raw/branch/main/Box.json
 
-https://wds.ecsxs.com/213821.json
+接口5：https://freed.yuanhsing.cf/TVBox/meowcf.json
 
-https://wds.ecsxs.com/213679.json
+接口6：http://home.jundie.top:81/TVBox/yosakoi.json
 
-https://wds.ecsxs.com/213766.txt
+接口7：http://152.136.125.181:81/MM/dianbo/yeshijieC.txt
 
+接口8：https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
-低版本以下专用接口：
+## TVBox配置编辑器：
 
-https://wds.ecsxs.com/212757.json
+http://118.190.244.195/cat125/
 
-https://c1n.cn/2
+## 给TVbox站源添加符号:
 
-http://c1n.cn/mao
+很多人喜欢给TVbox的站源或者电视直播频道自定义一个符号，比如下面这类，实际上就是增加了网页符号。
 
-—————————————
-其它备用片源（主要适合2.0.8版以下）
 
-稳定源接口：
+![640](https://user-images.githubusercontent.com/102397160/181132511-1bfac13d-88bb-42ce-8d1a-94e253c8379d.png)
 
-https://wds.ecsxs.com/213013.json （比较全）
+这里推荐两个非常不错的网页符号复制粘贴地址。
 
-含爬虫的接口https://wds.ecsxs.com/212757.json
+https://funletu.com/emoji/
 
-https://pastebin.com/raw/GG51y0JG
+https://www.emojiall.com/zh-hans
 
-备选接口
+## Cloudreve个人网盘GitHub开源地址：
 
-https://wds.ecsxs.com/212010.json（可用爬虫源，阿房影视）
+https://github.com/cloudreve/Cloudreve
 
-备用接口
+## 比较牛逼的仓库：
 
-https://tvapp.guilaile.cn/wp-content/uploads/2021/08/dshzjk.txt
+o0HalfLife0o：
 
-10.13新增
+https://github.com/o0HalfLife0o/TVBoxOSC
 
-https://wds.ecsxs.com/213313.json
+俊佬：
 
-10月18日新增
+https://github.com/q215613905/TVBoxOS
 
-https://wds.ecsxs.com/213679.json
+官仓：终结于2022年7月18日。封仓。
 
-10月25新增
+https://github.com/CatVodTVOfficial/TVBoxOSC
 
-https://wds.ecsxs.com/213821.json
+## 常用工具：
 
-https://tool.wotianna.com/mysjk.json
+文本比较、json格式化：
+https://tsq.lanzouf.com/b0c4rjpsb
+密码:123
 
-10月30日
+开发者工具箱：
+https://1024tools.com/
 
-https://wds.ecsxs.com/216537.json
+文本处理：
+http://www.txttool.com/
 
-11.2
-https://wds.ecsxs.com/216731.json
+直播源批量检测工具：
+https://tsq.lanzouf.com/b0c4p2fba
+密码:123
 
+MXPlayer-Pro-1.46.10高级解锁版：
+https://tsq.lanzouf.com/b0c4p1nyf
+密码:123
 
+MD5获取小工具：http://www.metools.info/
 
-### 其他接口：（有和上面重复）
-
-https://maoys.c1n.cn
-
-http://gg.gg/898900
-
-http://www.nihaogege.com/cat/yl.js
-
-https://pastebin.com/raw/FuMsfJWw
-
-https://tool.wotianna.com/mysjk.json
-
-https://wds.ecsxs.com/213821.json
-
-https://pglblb-1307091970.cos.ap-guangzhou.myqcloud.com/88.json
-
-https://pastebin.com/raw/d7spQMWr
-
-https://wds.ecsxs.com/212757.json
-
-https://wds.ecsxs.com/213679.json
-
-https://c1n.cn/cat
-
-http://gg.gg/cccvvv
-
-https://pastebin.com/raw/izVq5sXv
-
-https://wds.ecsxs.com/213013.json
-
-https://c1n.cn/mao
-
-https://api.jsonbin.io/b/618753564a56fb3dee0a896d
-
-https://wds.ecsxs.com/216537.json
-
-https://gitlab.com/GDaily1/cat_tv/-/raw/main/zh_tw_2.0.json
-
-https://wds.ecsxs.com/213766.txt
-
-https://wds.ecsxs.com/213313.json
-
----
-
-## 猫影视配置编辑器：
-
-https://catvod.github.io/CatVodTVJsonEditor/
-
-## 播放源
-
-猫影视接口搜集：http://ich.vaiwan.com/raw/share/maotv-sj.txt
-
-自动同步已更新（免翻流畅访问）：https://sub.ytzb.workers.dev/hstsws008/dizhi/-/raw/main/2345.json
-
-猫影视接口
-https://pastebin.com/raw/d7spQMWr
-
-https://gitlab.com/hstsws008/dizhi/-/raw/main/2345.json
-
-https://c1n.cn/mao
-
-https://api.jsonbin.io/b/618753564a56fb3dee0a896d
-
-https://wds.ecsxs.com/216537.json
-
-https://gitlab.com/GDaily1/cat_tv/-/raw/main/zh_tw_2.0.json
-
-https://wds.ecsxs.com/213766.txt
-
-https://wds.ecsxs.com/213313.json
-
-https://wds.ecsxs.com/212757.json
-
-https://vipmods.net/texthost/raw/maojson-77
-
-https://91io.cn/s/9JoqbtO/666.txt
-
-https://91io.cn/s/pp2ADU9/Mao.txt
-
-https://wds.ecsxs.com/213679.json
-
-https://vipmods.net/texthost/raw/123-77197
-
-https://vipmods.net/texthost/raw/888-85395
-
-https://vipmods.net/texthost/raw/123-17492
-
-https://vipmods.net/texthost/raw/888-80906
-
-https://pastebin.com/raw/FuMsfJWw
-
-https://tool.wotianna.com/mysjk.json
-
-
+MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 
 ### Stargazers over time
 
