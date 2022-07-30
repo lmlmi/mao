@@ -8,6 +8,7 @@
 //{"key":"8090","name":"8090","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml","playUrl":"https://jx.renrenmi.cc/?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","魔幻片","冒险片","悬疑片","纪录片","犯罪片","微电影","其他片","动画片"]},
 {"key":"csp_Cokemv","name":"Cokemv(佰欣园)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Kunyu77","name": "(佰欣园)七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"360_spider" ,"name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果","name":"(佰欣园)小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "演唱会","name": "(佰欣园)演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/60647/%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=Lt4eS050d8oF7W7DUh0LA1FOrP-JAvPnh29_HX-iL4I%3D%3A0"},
 {"key": "Kuaikan","name": "(佰欣园)快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
