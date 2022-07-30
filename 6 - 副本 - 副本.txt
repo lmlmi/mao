@@ -1,6 +1,6 @@
 {
 "spider":"https://pan.css.lc/api/v3/file/get/40499/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF.jar?sign=icnk_LTIJkFSq-zNp2Vg1wb6e3DrViDouG1NgSegSW4%3D%3A0",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uY3NzLmxjL2FwaS92My9maWxlL2dldC80MDg2NC9saXZlLnR4dD9zaWduPTV0Z1c5LXFJWUQ2RjJMWUdXY0psajBYRGRZQnp6OTQ3SkN5RWxNQkYxWEElM0QlM0Ew"]}]}],
+
 
 
 "sites":[ {"key":"快播云","name":"快播云(佰欣园)","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
