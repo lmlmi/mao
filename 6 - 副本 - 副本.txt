@@ -1,5 +1,4 @@
 {
-"spider":"https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@6f46e41aeff89b98f468f0c225f37e281ec4de21/%E8%87%AA%E7%94%A8.jar",
 
 
 
