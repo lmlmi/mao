@@ -1,14 +1,16 @@
 {
-"spider":"https://gitee.com/miss-chengxueli/tv/blob/master/%E8%87%AA%E7%94%A8.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Cmh0dHBzOi8vZ2l0ZWUuY29tL21pc3MtY2hlbmd4dWVsaS90di9yYXcvbWFzdGVyLyVFNyU5NCVCNSVFOCVBNyU4Ni50eHQ="]}]}],
+"spider":"https://wp.wangshi520.com/down.php/6fa1249ae7beeb0222a05db1bc58fb26.jar",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93cC53YW5nc2hpNTIwLmNvbS9kb3duLnBocC8xZDZlZmNjNmU1YmM3NmY1MjJhYWI5ODFhMzJlMGRjYS50eHQ="]}]}],
 
 
 "sites":[ {"key":"快播云","name":"快播云(佰欣园)","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
 {"key":"M3U8TV资源","name":"M3U8TV资源(佰欣园)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"8090","name":"8090","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml","playUrl":"https://jx.renrenmi.cc/?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","魔幻片","冒险片","悬疑片","纪录片","犯罪片","微电影","其他片","动画片"]},
+//{"key":"8090","name":"8090","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml","playUrl":"https://jx.renrenmi.cc/?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","魔幻片","冒险片","悬疑片","纪录片","犯罪片","微电影","其他片","动画片"]},
+{"key":"360_spider" ,"name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Cokemv","name":"Cokemv(佰欣园)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Kunyu77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "演唱会","name": "(佰欣园)音乐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/miss-chengxueli/tv/raw/master/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
+{"key": "Kunyu77","name": "(佰欣园)七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"小苹果","name":"(佰欣园)小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "演唱会","name": "(佰欣园)演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://wp.wangshi520.com/down.php/17cdbf4582ddef1f28ca6d1d17bbe4ca.json"},
 {"key": "Kuaikan","name": "(佰欣园)快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"Auete(佰欣园)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_N0ys","name":"90影视(佰欣园)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":0},
