@@ -1,5 +1,5 @@
 {
-"spider":"https://wp.wangshi520.com/down.php/6fa1249ae7beeb0222a05db1bc58fb26.jar",
+"spider":"https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/%E8%87%AA%E7%94%A8.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2NoZW5neHVlbGk4MTg5MTMvbWFvVFZAbWFpbi9saXZlJTIwKDEpLnR4dA=="]}]}],
 
 
