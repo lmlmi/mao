@@ -1,6 +1,6 @@
 {
 "spider":"https://wp.wangshi520.com/down.php/6fa1249ae7beeb0222a05db1bc58fb26.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93cC53YW5nc2hpNTIwLmNvbS9kb3duLnBocC8xZDZlZmNjNmU1YmM3NmY1MjJhYWI5ODFhMzJlMGRjYS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2NoZW5neHVlbGk4MTg5MTMvbWFvVFZAbWFpbi9saXZlJTIwKDEpLnR4dA=="]}]}],
 
 
 "sites":[ {"key":"快播云","name":"快播云(佰欣园)","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
