@@ -1,6 +1,6 @@
 {
-"spider":"https://gitea.com/chengxueli818/maoTV/raw/branch/main/%E8%87%AA%E7%94%A8.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Cmh0dHBzOi8vZ2l0ZWUuY29tL21pc3MtY2hlbmd4dWVsaS90di9yYXcvbWFzdGVyLyVFNyU5NCVCNSVFOCVBNyU4Ni50eHQ="]}]}],
+"spider":"https://gitea.com/chengxueli818/maoTV/raw/branch/main/0718.jar",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY1OTk0ODE1Ni50eHQK"]}]}],
 
  
  
