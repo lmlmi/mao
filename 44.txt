@@ -166,7 +166,7 @@
 {"key":"樱花资源","name":"樱花资源(佰欣园)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"趣看","name":"趣看(佰欣园)","type":1,"api":"http://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"飘花电影","name":"飘花电影(佰欣园)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"橘猫影视","name":"橘猫影视(佰欣园)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]}
+{"key":"橘猫影视","name":"橘猫影视(佰欣园)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
