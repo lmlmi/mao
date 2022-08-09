@@ -166,7 +166,7 @@
 {"key":"樱花资源","name":"樱花资源(佰欣园)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"趣看","name":"趣看(佰欣园)","type":1,"api":"http://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"飘花电影","name":"飘花电影(佰欣园)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"橘猫影视","name":"橘猫影视(佰欣园)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]}
+{"key":"橘猫影视","name":"橘猫影视(佰欣园)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 //以下为1-8限
 {"key":"csp_xpath_扛把子影院","name":"扛把子影院(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/扛把子影院(xpf).json"},
         { "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
