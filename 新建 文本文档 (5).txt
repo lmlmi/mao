@@ -1,5 +1,5 @@
 {
-   "spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%87%AA%E7%94%A8.jar",
+   "spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/top95.jar",
 
    "wallpaper":"https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/tvbox.png",
 
