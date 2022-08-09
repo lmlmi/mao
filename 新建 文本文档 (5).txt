@@ -14,7 +14,7 @@
       {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
       {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-   {"key": "演唱会","name": "(佰欣园)演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/?q=https%3A%2F%2Fraw.githubusercontent.com%2Fchengxueli818913%2FmaoTV%2Fmain%2F%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A.json"},
+   {"key": "演唱会","name": "(佰欣园)演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
    {"key":"csp_SP361","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"追剧喵","name":"🥇追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
