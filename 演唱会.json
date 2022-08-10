@@ -99,6 +99,10 @@
       "type_id": "郭富城演唱会"
     },
     {
+      "type_name": "H黄绮珊",
+      "type_id": "黄绮珊演唱会"
+    },
+    {
       "type_name": "H黄凯芹",
       "type_id": "黄凯芹演唱会"
     },
@@ -214,6 +218,10 @@
     {
       "type_name": "W王菲",
       "type_id": "王菲演唱会"
+    },
+    {
+      "type_name": "X谢霆锋",
+      "type_id": "谢霆锋演唱会"
     },
     {
       "type_name": "X徐小凤",
