@@ -1,142 +1,48 @@
 {
   "classes": [
     {
-      "type_name": "一年级语文",
-      "type_id": "一年级语文"
+      "type_name": "幼儿画画",
+      "type_id": "幼儿画画"
     },
     {
-      "type_name": "一年级数学",
-      "type_id": "一年级数学"
+      "type_name": "幼儿故事",
+      "type_id": "幼儿故事"
     },
     {
-      "type_name": "一年级英语",
-      "type_id": "一年级英语"
+      "type_name": "幼儿英语",
+      "type_id": "幼儿英语"
     },
     {
-      "type_name": "二年级数学",
-      "type_id": "二年级数学"
+      "type_name": "幼儿数学",
+      "type_id": "幼儿数学"
     },
     {
-      "type_name": "二年级语文",
-      "type_id": "二年级语文"
+      "type_name": "幼儿拼音",
+      "type_id": "幼儿拼音"
     },
     {
-      "type_name": "二年级英语",
-      "type_id": "二年级英语"
+      "type_name": "幼儿识字",
+      "type_id": "幼儿识字"
     },
     {
-      "type_name": "三年级语文",
-      "type_id": "三年级语文"
+      "type_name": "幼儿舞蹈",
+      "type_id": "幼儿舞蹈"
     },
     {
-      "type_name": "三年级数学",
-      "type_id": "三年级数学"
+      "type_name": "幼儿歌曲",
+      "type_id": "幼儿歌曲"
+    },
+      "type_name": "幼儿早教",
+      "type_id": "幼儿早教"
     },
     {
-      "type_name": "三年级英语",
-      "type_id": "三年级英语"
-    },
-    
+      "type_name": "幼儿益智动画",
+      "type_id": "幼儿益智动画"
     {
-      "type_name": "四年级语文",
-      "type_id": "四年级语文"
+      "type_name": "儿童思维训练",
+      "type_id": "儿童思维训练"
     },
-    {
-      "type_name": "四年级数学",
-      "type_id": "四年级数学"
-    },
-    {
-      "type_name": "四年级英语",
-      "type_id": "四年级英语"
-    },
-    {
-      "type_name": "五年级数学",
-      "type_id": "五年级数学"
-    },
-    {
-      "type_name": "五年级语文",
-      "type_id": "五年级语文"
-    },
-    {
-      "type_name": "五年级英语",
-      "type_id": "五年级英语"
-    },
-    {
-      "type_name": "六年级级英语",
-      "type_id": "六年级级英语"
-    },
-    {
-      "type_name": "六年级级数学",
-      "type_id": "六年级级数学"
-    },
-    
-    {
-      "type_name": "七年级数学",
-      "type_id": "七年级数学"
-    },
-    {
-      "type_name": "七年级英语",
-      "type_id": "七年级英语"
-    },
-    {
-      "type_name": "七年级语文",
-      "type_id": "七年级语文"
-    },
-     {
-      "type_name": "七年级历史",
-      "type_id": "七年级历史"
-    },
-    {
-      "type_name": "七年级地理",
-      "type_id": "七年级地理"
-    },
-    {
-      "type_name": "八年级地理",
-      "type_id": "八年级地理"
-    },
-    {
-      "type_name": "八年级生物",
-      "type_id": "八年级生物"
-    },
-    {
-      "type_name": "八年级科学",
-      "type_id": "八年级科学"
-    },
-    {
-      "type_name": "八年级语文",
-      "type_id": "八年级语文"
-    },
-    
-    {
-      "type_name": "八年级英语",
-      "type_id": "八年级英语"
-    },
-    {
-      "type_name": "八年级数学",
-      "type_id": "八年级数学"
-    },
-    
-    {
-      "type_name": "九年级年级数学",
-      "type_id": "九年级年级数学"
-    },
-    {
-      "type_name": "九年级年级语文",
-      "type_id": "九年级年级语文"
-    },
-    {
-      "type_name": "九年级年级英语",
-      "type_id": "九年级年级英语"
-    },
-    {
-      "type_name": "九年级年级历史",
-      "type_id": "九年级年级历史"
-    },
-    {
-      "type_name": "九年级年级科学",
-      "type_id": "九年级年级科学"
-    
-    }
+  
   ],
   "filter": {
     "搞笑": [
