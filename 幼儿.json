@@ -1,26 +1,25 @@
 {
   "classes": [
     {
-      "type_name": "幼儿画画",
+        "type_name": "幼儿画画",
       "type_id": "幼儿画画"
-    },
-    {
-      "type_name": "幼儿故事",
-      "type_id": "幼儿故事"
     },
     {
       "type_name": "幼儿英语",
       "type_id": "幼儿英语"
     },
     {
-      "type_name": "幼儿数学",
-      "type_id": "幼儿数学"
-    },
-    {
       "type_name": "幼儿拼音",
       "type_id": "幼儿拼音"
     },
     {
+      "type_name": "幼儿故事",
+      "type_id": "幼儿故事"
+    },
+    {
+      "type_name": "幼儿数学",
+      "type_id": "幼儿数学"
+    },
       "type_name": "幼儿识字",
       "type_id": "幼儿识字"
     },
@@ -32,18 +31,32 @@
       "type_name": "幼儿歌曲",
       "type_id": "幼儿歌曲"
     },
+    {
       "type_name": "幼儿早教",
       "type_id": "幼儿早教"
     },
     {
       "type_name": "幼儿益智动画",
       "type_id": "幼儿益智动画"
-     },
+    },
     {
       "type_name": "儿童思维训练",
       "type_id": "儿童思维训练"
+    },
+
+    {
+      "type_name": "儿童成长故事",
+      "type_id": "儿童成长故事"
+    },
+    {
+      "type_name": "儿童教育",
+      "type_id": "儿童教育动画片"
+    },
+    {
+      "type_name": "儿童MV",
+      "type_id": "儿童MV"
+    
     }
-  
   ],
   "filter": {
     "搞笑": [
