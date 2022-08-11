@@ -1,30 +1,30 @@
 {
   "classes": [
     {
-        "type_name": "幼儿画画",
+        "type_name": "画画",
       "type_id": "幼儿画画"
     },
     {
-      "type_name": "幼儿英语",
+      "type_name": "英语",
       "type_id": "幼儿英语"
     },
     {
-      "type_name": "幼儿拼音",
+      "type_name": "拼音",
       "type_id": "幼儿拼音"
     },
     {
-      "type_name": "幼儿故事",
+      "type_name": "故事",
       "type_id": "幼儿故事"
     },
     {
-      "type_name": "幼儿数学",
+      "type_name": "数学",
       "type_id": "幼儿数学"
     },
-      "type_name": "幼儿识字",
+      "type_name": "识字",
       "type_id": "幼儿识字"
     },
     {
-      "type_name": "幼儿舞蹈",
+      "type_name": "舞蹈",
       "type_id": "幼儿舞蹈"
     },
     {
@@ -36,24 +36,24 @@
       "type_id": "幼儿早教"
     },
     {
-      "type_name": "幼儿益智动画",
+      "type_name": "益智动画",
       "type_id": "幼儿益智动画"
     },
     {
-      "type_name": "儿童思维训练",
+      "type_name": "思维训练",
       "type_id": "儿童思维训练"
     },
 
     {
-      "type_name": "儿童成长故事",
+      "type_name": "成长故事",
       "type_id": "儿童成长故事"
     },
     {
-      "type_name": "儿童教育",
+      "type_name": "教育",
       "type_id": "儿童教育动画片"
     },
     {
-      "type_name": "儿童MV",
+      "type_name": "MV",
       "type_id": "儿童MV"
     
     }
@@ -1395,6 +1395,10 @@
           {
             "n": "阿黛尔",
             "v": "阿黛尔"
+          },
+          {
+            "n": "幼儿识字",
+            "v": "幼儿识字"
           },
           {
             "n": "BIGBANG",
