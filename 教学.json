@@ -1,6 +1,58 @@
 {
   "classes": [
      {
+      "type_name": "儿童mv",
+      "type_id": "儿童mv"
+    },
+    {
+      "type_name": "幼儿教育动画",
+      "type_id": "幼儿教育动画"
+    },
+     {
+      "type_name": "幼儿成长故事",
+      "type_id": "幼儿成长故事"
+    },
+    {
+      "type_name": "幼儿思维训练",
+      "type_id": "幼儿思维训练"
+    },
+    {
+      "type_name": "幼儿动画",
+      "type_id": "幼儿益智动画"
+    },
+     {
+      "type_name": "幼儿早教",
+      "type_id": "幼儿早教"
+    },
+    {
+      "type_name": "幼儿歌曲",
+      "type_id": "幼儿歌曲"
+    },
+    {
+      "type_name": "幼儿舞蹈",
+      "type_id": "幼儿舞蹈"
+    },
+    {
+      "type_name": "幼儿识字",
+      "type_id": "幼儿识字"
+    },
+    {
+      "type_name": "幼儿数学",
+      "type_id": "幼儿数学"
+    },
+    {
+      "type_name": "幼儿故事",
+      "type_id": "幼儿故事"
+    },
+    {
+      "type_name": "幼儿拼音",
+      "type_id": "幼儿拼音"
+    },
+    {
+      "type_name": "幼儿英语",
+      "type_id": "幼儿英语"
+    },
+     {
       "type_name": "幼儿画画",
       "type_id": "幼儿画画"
     },
