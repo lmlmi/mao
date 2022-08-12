@@ -3,6 +3,7 @@
 永嘉新闻综合,http://l.cztvcloud.com/chan温州新闻综合,rtmp://livetv.dhtv.cn/live/news?zzhed
 温州新闻综合,https://live.wzqmt.com/wztv1/playlist.m3u8?_upt=ea4bad9e1660286184
 温州新闻综合,rtmp://livetv.dhtv.cn/live/news?zzhed
+温州经济科教,https://live.wzqmt.com/wztv2/playlist.m3u8?_upt=e162bd4c1660285961
 温州经济科教,https://live.wzqmt.com/wztv2/playlist.m3u8?_upt=5660e7fb1660103292
 温州经济科教,rtmp://livetv.dhtv.cn/live/financial?zzhed
 温州都市生活,https://live.wzqmt.com/wztv3/playlist.m3u8?_upt=ec8e0ccc1660103193
