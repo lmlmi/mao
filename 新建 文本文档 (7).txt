@@ -69,6 +69,9 @@
  {"key": "csp_biubiu_OmoFun动漫","name": "OmoFun动漫(佰欣园)","type": 3,"api": "csp_XBiubiu",	"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/OmoFun%E5%8A%A8%E6%BC%AB.json"},
  {"key": "csp_biubiu_森屋新番","name": "森屋新番(佰欣园)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json"},
  {"key": "csp_xpath___动漫巴士","name": "动漫巴士(佰欣园)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"},
+ {"key":"csp_QQ","name":" 🍅腾讯视频(佰欣园)","type": 3,"api":"csp_QQ","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%85%BE%E8%AE%AF.txt"},
+{"key":"csp_IQIYI","name":"🥝爱奇艺(佰欣园)","type":3,"api":"csp_IQIYI","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%88%B1%E5%A5%87%E8%89%BA.txt"},
+{"key":"csp_MGTV","name":"🍋芒果TV(佰欣园)","type":3,"api":"csp_MGTV","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%8A%92%E6%9E%9C.txt"},
 #官方解析
  {"key":"6U资源","name":"6U资源(佰欣园)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
  {"key":"天堂资源","name":"天堂资源(佰欣园)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
