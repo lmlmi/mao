@@ -184,7 +184,7 @@
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"秒解","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
+{"name":"ok解析","type":1,"url":"https://okjx.cc/?url="},
 {"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
 {"name":"①秒播","type":1,"url":"https://jx.hfyrw.com/mao.go?url="},
 {"name":"②秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
