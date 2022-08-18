@@ -1,138 +1,140 @@
+TVBox
+使用方法
+TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
+1、https://gitea.com/
 
+2、https://gitee.com/
 
-# TVBox
+3、https://agit.ai/
 
-- [使用方法](./usage.md)
+4、云储： https://yunchu.cxoip.com/
 
-### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
+5、腾讯云： https://coding.net/
 
-1、比邻（TXT支持编辑）:收费啦。富裕的可以使用。 https://pan.bilnn.com/api/v3/share/invite/bmB58Te
+6、瑞典外链网盘：https://anonfiles.com/
 
-2、往事、彩虹: https://wp.wangshi520.com/   不能在线编辑
+7、比邻： https://pan.bilnn.com 收费了，能在线编辑
 
-3、书源: https://shuyuan.miaogongzi.net/   不能在线编辑
+8、往事、彩虹: https://wp.wangshi520.com/ 不能在线编辑
 
-4、猫猫外链： http://mmwl.88wg.top/  不能在线编辑
+9、猫猫外链： http://mmwl.88wg.top/ 不能在线编辑
 
-5、惜染 https://mpimg.cn/  不能在线编辑
+10、惜染 https://mpimg.cn/ 不能在线编辑
 
-6、OpenDrive: https://www.opendrive.com/   能在线编辑，慢
+11、枫铭网盘： https://pan.dkpoi.com 不能编辑
 
-7、晴园: http://52qy.vaiwan.cn/up.php  打不开了
+12、https://out.zxglife.top 不能编辑
 
-8、tigerroot: https://pan.tigerroot.cn/   停运
+13、https://pan.05kr.com 不能编辑
 
-9、云星、吾爱云盘（完全免费） https://pan.css.lc/   能在线编辑
+14、http://tvmvip110.live/ 书源: https://shuyuan.miaogongzi.net/ 不能在线编辑,打不开了。
 
-Pan云盘APP、密码:49mz https://wwc.lanzoub.com/b0erzmzqf
+15、OpenDrive: https://www.opendrive.com/ 能在线编辑，慢
 
-10、nite07网盘 https://share.nite07.com
+16、云星 https://pan.css.lc/ 收费了，能在线编辑
 
-11、ifilespace https://demo.ifile.space/main
+17、nite07网盘 https://share.nite07.com
 
-12、七彩云存储：  https://cloud.06dn.com/login
+18、ifilespace https://demo.ifile.space/main
 
-13、https://pan.fgboke.com  打不开
+19、七彩云存储： https://cloud.06dn.com/login
 
-14、豆子外链： http://zuoye.free.fr/index.php   限制文件格式
+20、豆子外链： http://zuoye.free.fr/index.php 限制文件格式
 
-15、棱束链： https://www.lingshulian.com/
+21、棱束链： https://www.lingshulian.com/
 
-16、可直链下载的免费存储空间：https://my.ksust.com/kstore.htm
+22、可直链下载的免费存储空间：https://my.ksust.com/kstore.htm
 
-17、乐分发存储：https://pan.leffs.cn/Login
+23、乐分发存储：https://pan.leffs.cn/Login
 
-18、https://gitea.com/
+24、https://www.jsdelivr.com/
 
-19、https://gitee.com/
+25、恩华云盘：https://pan.ehvip.cn
 
-20、云储 https://yunchu.cxoip.com/
+26、诺灸：https://www.cloudewl.cn
 
-21、腾讯云 https://coding.net/
+27、代码托管：https://agit.ai
 
-22、https://www.jsdelivr.com/
-
-## 短链接制作网址：哪个稳定自己测试。
-
+短链接制作网址：哪个稳定自己测试。
 https://gg.gg
 
-https://77url.com/
+https://77url.com
 
-https://qiu.moe/
+https://qiu.moe x
 
-https://www.c1n.cn/
+https://www.c1n.cn
 
-http://pesc.pw/
+http://pesc.pw x
 
-https://0dlj.cn/
+https://0dlj.cn
 
-https://0a.fit/
+https://0a.fit
 
-http://mtw.so/
+http://mtw.so
 
-https://app.short.io/
+https://app.short.io x
 
-https://sd4.cn/ 
+https://sd4.cn
 
-## 壁纸：
+https://pqu.cn
 
+https://88d.cn
+
+https://loveer.win
+
+https://mtool.chinaz.com/dwz
+
+https://waurl.cn
+
+https://tshort.lfabu.com
+
+https://dwz.dk
+
+壁纸：
 http://www.kf666888.cn/api/tvbox/img
 
 https://picsum.photos/1280/720/?blur=10
 
 https://qiu.moe/a723
 
-
-## 解析测试：
-
+解析测试：
 http://www.36nu.com/apiTest
 
-### 更新
+更新
+多jar链接写法，根据app版本来：
+Pluto Player版本：
+{"key":"","name":"","api":"","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http:///.jar"},
 
-## 多jar链接写法，根据app版本来：
+这个：
+{"key":"","name":"","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1,"spider":"http:///.jar"},
 
-## Pluto Player版本：
+俊佬版本多jar链接写法：
+{"key":"","name":"","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
 
-{"key":"***","name":"***","api":"***","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http://****/*.jar"},
-
-## 这个：
-
-{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"spider":"http://****/*.jar"},
-
-## 俊佬版本多jar链接写法：
-
-{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
-
-
-
-### 接口
-
+天天维护的接口，慢慢收集
 接口1:http://刚刚.live/猫
 
-接口2:http://maoyingshi.cc/tvbox/云星日记/1.json
+接口2:http://maoyingshi.cc/tvbox/云星日记/1.m3u8
 
-接口3:https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+接口3:https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
-接口4：https://gitea.com/Pandora2277/TV/raw/branch/main/Box.json
+接口4:http://xiaoz123.ysepan.com/
 
-接口5：https://freed.yuanhsing.cf/TVBox/meowcf.json
+接口5：https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json
 
-接口6：http://home.jundie.top:81/TVBox/yosakoi.json
+接口6：https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
 
-接口7：http://152.136.125.181:81/MM/dianbo/yeshijieC.txt
+TVBox配置编辑器：
+https://kvymin.github.io/CatVodTVJsonEditor/
 
-接口8：https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
+下边这个比较牛了，能加密，能解密：
 
-## TVBox配置编辑器：
+hfr1107.github.io/catvodtvjsoneditor/
 
-http://118.190.244.195/cat125/
-
-## 给TVbox站源添加符号:
-
+给TVbox站源添加符号:
 很多人喜欢给TVbox的站源或者电视直播频道自定义一个符号，比如下面这类，实际上就是增加了网页符号。
 
-
-![640](https://user-images.githubusercontent.com/102397160/181132511-1bfac13d-88bb-42ce-8d1a-94e253c8379d.png)
+640
 
 这里推荐两个非常不错的网页符号复制粘贴地址。
 
@@ -140,49 +142,130 @@ https://funletu.com/emoji/
 
 https://www.emojiall.com/zh-hans
 
-## Cloudreve个人网盘GitHub开源地址：
-
+Cloudreve个人网盘GitHub开源地址：
 https://github.com/cloudreve/Cloudreve
 
-## 比较牛逼的仓库：
+比较牛逼的仓库：
+唐三大佬仓库地址：https://github.com/Tangsan99999/TvJar
+
+巧技大佬仓库地址：https://gitea.com/qiaoji
+
+俊于大佬+唐三大佬+影魔大佬=官仓延续：
+
+https://github.com/q215613905/TVBoxOS
+
+pluto-player：不开源 A佬。魔改，改动大，功能多，能在线升级，目前不支持低版本安卓。
+
+https://github.com/pluto-player/updates
+
+takagen99：
+
+https://github.com/takagen99/TVBoxOSC
 
 o0HalfLife0o：
 
 https://github.com/o0HalfLife0o/TVBoxOSC
 
-俊佬：
+https://github.com/dlgt7/TVBoxOSC-o0HalfLife0o 上传作者分享的开源代码，有需要的自己fork回去修改。（2022-8-11）
 
-https://github.com/q215613905/TVBoxOS
+https://github.com/o0HalfLife0o/AlphaTV
+
+clanTV：
+
+https://github.com/clanTV/clanTV
+
+FongMi-TV:
+
+https://github.com/FongMi/TV
+
+BearTV:
+
+https://github.com/haha459862/BearTV
 
 官仓：终结于2022年7月18日。封仓。
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
-## 常用工具：
+常用工具：
+文本比较、json格式化： https://tsq.lanzouf.com/b0c4rjpsb 密码:123
 
-文本比较、json格式化：
-https://tsq.lanzouf.com/b0c4rjpsb
-密码:123
+开发者工具箱： https://1024tools.com/
 
-开发者工具箱：
-https://1024tools.com/
+文本处理： http://www.txttool.com/
 
-文本处理：
-http://www.txttool.com/
+直播源批量检测工具： https://tsq.lanzouf.com/b0c4p2fba 密码:123
 
-直播源批量检测工具：
-https://tsq.lanzouf.com/b0c4p2fba
-密码:123
-
-MXPlayer-Pro-1.46.10高级解锁版：
-https://tsq.lanzouf.com/b0c4p1nyf
-密码:123
+MXPlayer-Pro-1.46.10高级解锁版： https://tsq.lanzouf.com/b0c4p1nyf 密码:123
 
 MD5获取小工具：http://www.metools.info/
 
 MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 
-### Stargazers over time
+json内资源格式参数介绍
+{"key":"key_〔资源名称〕", "name":"资源名称", "type":0, "api":"csp_〔jar内文件名称〕", "searchable":1, "quickSearch":1, "filterable":0, "jar":"〔jar文件地址〕", "ext":"〔txt json文件地址〕", "playUrl": "〔播放解析地址〕", "categories":["〔自定义资源列表〕", "〔自定义资源列表〕"] }
 
-[![Stargazers over time](https://starchart.cc/xlc520/MaoTV.svg)](https://starchart.cc/xlc520/MaoTV)
+jar修改学习：要想实现jar包自由，多关注以下仓库，慢慢积累经验学习吧。看看谁常更新，盯住学习就行。
+jar打包：在jar仓库里依次点击：actions-workflows-spider jar gen cl-run workflow。和打包TVBOX一样。
 
+jar打包成功实例仓库：仅供参考，自行添加新的，删除或者修改失效的。https://github.com/dlgt7/TvJar
+
+Fork始点，地位特殊：https://github.com/Tangsan99999/TvJar
+
+https://github.com/Kimlee-cmd/TvJar
+
+https://github.com/Kvymin/CatVodTVSpider
+
+https://github.com/Kvymin/CatVod
+
+电脑修改 apk 所需软件
+0、首推吾爱破解工具包：
+
+https://down.52pojie.cn/Tools/
+
+1、下载解压编译器 AndroidKiller https://mydown.yesky.com/pcsoft/413552646.html
+
+2、安装 java8 环境 http://soft.onlinedown.net/soft/10044859.htm
+
+3、下载编码器，
+
+改名为 ShakaApktool.jar 替换 AndroidKiller\bin\apktool\apktool https://bitbucket.org/iBotPeaches/apktool/downloads/
+
+jar包缝合教程：暴力缝合，非代码修改。
+准备工作：MT管理器或者NP管理器，B包要用的包，A包要导出的包。
+
+开始：A包中merge重命名，展开重命名的merge，选中需要导出的文件，导出。打开B包，导入刚才导出的重命名的merge文件，保存退出。B包就是缝合好的包。
+
+多试几次，关键是找个好用的MT或者NP。不是你不会，是因为你的MT或着NP没那个功能。
+
+1、打开需要导出的包：
+
+1
+
+2、给他重命名：
+
+2
+
+3、选中，并导出你需要的文件：
+
+3
+
+4、随便取个名字，自己能找到就行，理解就好。
+
+4
+
+5、打开你最终要用的包，导入刚才那个包导出的东西。
+
+5
+
+6、导入完成后的样子：
+
+6 7
+
+试试吧，不一定对。
+
+今天看到一个新的教程：
+【教程】Pluto player影视软件新姿势_无密码挂载alist_免费观看原画
+
+8款网盘可同时挂载到Kodi播放器，支持Mac和Windows平台
+
+教程在仓库里：https://github.com/dlgt7/TVbox-interface PDF文件格式，需下载查看，感觉不清楚的话，文件里写有教程出处，都是公众号文章。
