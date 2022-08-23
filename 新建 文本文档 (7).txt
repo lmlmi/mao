@@ -7,6 +7,7 @@
 {"key":"M3U8TV资源","name":"M3U8TV资源(佰欣园)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key": "Kunyu77","name": "七七(佰欣园)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu_spider","name": "乐猪影视(佰欣园)",	"api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
+{"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"酷猫","name":"酷猫(佰欣园)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Ikan","name": "爱看(佰欣园)","type": 3, "api": "csp_IKan", "searchable": 1, "quickSearch": 1,"filterable": 1 },
 {	"key": "csp_DiDuan","name": "低端影视(佰欣园","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
