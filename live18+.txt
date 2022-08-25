@@ -1,7 +1,7 @@
 🇨🇳丨浙江,#genre#
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-温州文成二套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+温州文成二套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8https://github.com/chengxueli818913/maoTV
 温州洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 温州泰顺综合,http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
