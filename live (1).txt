@@ -3344,8 +3344,7 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 丨演唱会,#genre#
 张学友,https://cdn13.pzvcdn.com/upload/20181120/3cdf06f6ff538a4f849517fdc594a315/3cdf06f6ff538a4f849517fdc594a315.m3u8
 高跟鞋,https://mvdown.kuwo.cn/5100fd8a4f0b7922e5be2398c9bbba95/630e057d/resource/m2/42/79/2387706621.mp4
-带你去旅行,https://eg-sycdn.kuwo.cn/d6bd13f585ed71f84d9728014e756735/630e085b/resource/m3/24/73/4263274569.mp4，https://eg-sycdn.kuwo.cn/d6bd13f585ed71f84d9728014e756735/630e085b/resource/m3/24/73/4263274569.mp4
-
+带你去旅行,https://eg-sycdn.kuwo.cn/d6bd13f585ed71f84d9728014e756735/630e085b/resource/m3/24/73/4263274569.mp4
 
 
 📚丨学生课堂,#genre#
