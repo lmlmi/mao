@@ -2,7 +2,8 @@
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20220827.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
- "sites":[ 
+
+"sites":[ 
  {"key": "Kunyu77","name": "🐞七七(佰欣园)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key":"快播云","name":"快播云(佰欣园)","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
 {"key":"csp_Bili合集","name":" 🅱哔哩哔哩(佰欣园)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/sub/ext/B站.txt","jar":"https://raw.liucn.cc/sub/ext/bili.jpg;md5;F772B0AF73D43BE1C8F1B664101B32A8"},
