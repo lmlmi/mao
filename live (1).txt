@@ -3343,7 +3343,8 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 北京IPTV淘娱乐,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 丨演唱会,#genre#
 张学友,https://cdn13.pzvcdn.com/upload/20181120/3cdf06f6ff538a4f849517fdc594a315/3cdf06f6ff538a4f849517fdc594a315.m3u8
-2022,https://m3u.if101.tv/xm3u8/0153f0ee1814e951ba86fa862ddc2a78e54caf4f284825b3f39777f36c82fdd99921f11e97d0da21.m3u8
+高跟鞋,https://mvdown.kuwo.cn/5100fd8a4f0b7922e5be2398c9bbba95/630e057d/resource/m2/42/79/2387706621.mp4
+
 
 📚丨学生课堂,#genre#
 空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
