@@ -3343,8 +3343,8 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 北京IPTV淘娱乐,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 丨演唱会,#genre#
 张学友,https://cdn13.pzvcdn.com/upload/20181120/3cdf06f6ff538a4f849517fdc594a315/3cdf06f6ff538a4f849517fdc594a315.m3u8
-高跟鞋,https://mvdown.kuwo.cn/5100fd8a4f0b7922e5be2398c9bbba95/630e057d/resource/m2/42/79/2387706621.mp4
-带你去旅行,https://eg-sycdn.kuwo.cn/d6bd13f585ed71f84d9728014e756735/630e085b/resource/m3/24/73/4263274569.mp4
+高跟鞋,https://vd2.bdstatic.com/mda-mkk8cwqf5tbpxe1v/480p/h264/1637476112734859591/mda-mkk8cwqf5tbpxe1v.mp4?auth_key=1661960834-0-0-7a6737d371c19ceb34c636d386ea8da6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1034117438&vid=10406185522641928026&abtest=all
+
 
 
 📚丨学生课堂,#genre#
