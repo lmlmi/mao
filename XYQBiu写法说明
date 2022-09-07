@@ -10,15 +10,15 @@
     //一般很少用，留空或删除
     "Referer":"WebView",
     //是否开启获取首页数据，0关闭，1开启
-    "homeContent":"0",
+    "homeContent":"1",
     //分类链接起始页码,禁止负数和含小数点。
     "firstpage": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-    "class_url": "http://www.lezhutv.com/vodshow/{cateId}--------{catePg}---.html[firstPage=第一页不含页码的链接]",
+    "class_url": "https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html",
     //分类名，分类1&分类2&分类3
-    "class_name": "电影&电视剧&综艺&动漫",
+    "class_name": "电影&电视剧&动漫&综艺&福利&热门电视剧&港台剧&日韩剧&欧美剧",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
-    "class_value": "1&2&3&4",
+    "class_value": "1&2&3&41&22&32&24&322&224",
     //筛选数据，json格式，参考xpath的筛选写法
     "filterdata":{},
     //分类是否二次截取
@@ -41,13 +41,13 @@
     //分类截取片单链接，截取前缀&&截取后缀
     "cat_url": "href=\"&&\"",  
     //分类片单链接补前缀  
-    "cat_prefix": "http://www.lezhutv.com",
+    "cat_prefix": "https://www.o8tv.com",
     //分类片单链接补后缀
     "cat_suffix": "",
     
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
-    //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
-    "search_url": "http://www.lezhutv.com/index.php/vod/search/page/1/wd/{wd}.html",
+    //POST链接示例 https://www.o8tv.com/index.php?m=vod-search;post
+    "search_url": "https://www.o8tv.com/index.php/vod/search/page/1/wd/{wd}.html",
     //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
     "sea_PtBody":"wd={wd}&search=",
     //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
@@ -79,7 +79,7 @@
     //搜索片单链接，截取前缀&&截取后缀
     "sea_url": "href=\"&&\"",
     //搜索片单链接补前缀
-    "search_prefix": "http://www.lezhutv.com",
+    "search_prefix": "https://www.o8tv.com/",
     //搜索片单链接补后缀，这个一般json搜索的需要
     "search_suffix": "",
     //搜索副标题，截取前缀&&截取后缀
@@ -140,7 +140,7 @@
     //集数链接，截取前缀&&截取后缀
     "epi_url": "href=\"&&\"",
     //集数链接补前缀
-    "epiurl_prefix": "http://www.lezhutv.com",
+    "epiurl_prefix": "https://www.o8tv.com",
     //集数链接补后缀
     "epiurl_suffix": "",
     
