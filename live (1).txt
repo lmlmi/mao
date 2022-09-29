@@ -1,7 +1,6 @@
 🇨🇳丨浙江,#genre# 
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-温州文成二套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
 温州洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 温州泰顺综合,http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
@@ -1609,56 +1608,6 @@ AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=1
 青岛崂山双福,http://gcbsc.v.live.baishancdnx.cn/gc/qdls03_1/index.m3u8
 青岛崂山太清,http://gcksc.v.kcdnvip.com/gc/qdls04_1/index.m3u8
 青岛崂山太清,http://gccncc.v.wscdns.com/gc/qdls04_1/index.m3u8
-青岛崂山太清,http://gcbsc.v.live.baishancdnx.cn/gc/qdls04_1/index.m3u8
-青岛崂山灵旗峰,http://gcksc.v.kcdnvip.com/gc/qdls01_1/index.m3u8
-青岛崂山灵旗峰,http://gcbsc.v.live.baishancdnx.cn/gc/qdls01_1/index.m3u8
-青岛崂山八水河,http://gcksc.v.kcdnvip.com/gc/qdls02_1/index.m3u8
-青岛崂山八水河,http://gcbsc.v.live.baishancdnx.cn/gc/qdls02_1/index.m3u8
-三亚南山文化旅游区海上观音,http://gcksc.v.kcdnvip.com/gc/syns01_1/index.m3u8
-三亚南山文化旅游区海上观音,http://gccncc.v.wscdns.com/gc/syns01_1/index.m3u8
-三亚南山文化旅游区海上观音,http://gcbsc.v.live.baishancdnx.cn/gc/syns01_1/index.m3u8
-仙都风景区,http://gcksc.v.kcdnvip.com/gc/xdfjq01_1/index.m3u8
-仙都风景区,http://gcbsc.v.live.baishancdnx.cn/gc/xdfjq01_1/index.m3u8
-仙都风景区,http://gctxyc.liveplay.myqcloud.com/gc/xdfjq01_1/index.m3u8
-宁夏黄河大峡谷,http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8
-宁夏黄河大峡谷,http://gccncc.v.wscdns.com/gc/hhdxg01_1/index.m3u8
-宁夏黄河大峡谷,http://gcbsc.v.live.baishancdnx.cn/gc/hhdxg01_1/index.m3u8
-张掖七彩丹霞,http://gcksc.v.kcdnvip.com/gc/zyqcdx01_1/index.m3u8
-张掖七彩丹霞,http://gcbsc.v.live.baishancdnx.cn/gc/zyqcdx01_1/index.m3u8
-嵩山少林寺广场,http://gcksc.v.kcdnvip.com/gc/zsslsgc_1/index.m3u8
-嵩山少林寺广场,http://gcbsc.v.live.baishancdnx.cn/gc/zsslsgc_1/index.m3u8
-婺源01,http://gcksc.v.kcdnvip.com/gc/wygjt1_1/index.m3u8
-婺源01,http://gccncc.v.wscdns.com/gc/wygjt1_1/index.m3u8
-婺源01,http://gcbsc.v.live.baishancdnx.cn/gc/wygjt1_1/index.m3u8
-神农架金丝猴01,http://gcksc.v.kcdnvip.com/gc/jshhd01_1/index.m3u8
-神农架金丝猴01,http://gccncc.v.wscdns.com/gc/jshhd01_1/index.m3u8
-神农架金丝猴01,http://gcbsc.v.live.baishancdnx.cn/gc/jshhd01_1/index.m3u8
-都江堰鱼嘴,http://gcksc.v.kcdnvip.com/gc/djyqyl1_1/index.m3u8
-都江堰鱼嘴,http://gccncc.v.wscdns.com/gc/djyqyl1_1/index.m3u8
-都江堰鱼嘴,http://gcbsc.v.live.baishancdnx.cn/gc/djyqyl1_1/index.m3u8
-丹霞山丹梯铁锁,http://gcksc.v.kcdnvip.com/gc/dxsdtts_1/index.m3u8
-丹霞山丹梯铁锁,http://gcbsc.v.live.baishancdnx.cn/gc/dxsdtts_1/index.m3u8
-丹霞山韶音亭,http://gcksc.v.kcdnvip.com/gc/dxssyt_1/index.m3u8
-丹霞山韶音亭,http://gcbsc.v.live.baishancdnx.cn/gc/dxssyt_1/index.m3u8
-云南红河哈尼梯田多依树景点,http://gcksc.v.kcdnvip.com/gc/hnttdysjd_1/index.m3u8
-云南红河哈尼梯田多依树景点,http://gcbsc.v.live.baishancdnx.cn/gc/hnttdysjd_1/index.m3u8
-云南红河哈尼梯田普高老寨,http://gcksc.v.kcdnvip.com/gc/hnttpgsz_1/index.m3u8
-云南红河哈尼梯田普高老寨,http://gcbsc.v.live.baishancdnx.cn/gc/hnttpgsz_1/index.m3u8
-云南红河哈尼梯田老虎嘴,http://gcksc.v.kcdnvip.com/gc/hnttlhzjd_1/index.m3u8
-云南红河哈尼梯田老虎嘴,http://gcbsc.v.live.baishancdnx.cn/gc/hnttlhzjd_1/index.m3u8
-江西龙虎山中间水泡,http://gcksc.v.kcdnvip.com/gc/lhszjsp_1/index.m3u8
-江西龙虎山中间水泡,http://gcbsc.v.live.baishancdnx.cn/gc/lhszjsp_1/index.m3u8
-江西龙虎山山涧栈道,http://gcksc.v.kcdnvip.com/gc/lhssjzd_1/index.m3u8
-江西龙虎山山涧栈道,http://gccncc.v.wscdns.com/gc/lhssjzd_1/index.m3u8
-江西龙虎山山涧栈道,http://gcbsc.v.live.baishancdnx.cn/gc/lhssjzd_1/index.m3u8
-乐山大佛全景,http://gcksc.v.kcdnvip.com/gc/lsdfgfl_1/index.m3u8
-乐山大佛全景,http://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8
-乐山大佛全景,http://gcbsc.v.live.baishancdnx.cn/gc/lsdfgfl_1/index.m3u8
-福建武夷山玉女峰,http://gcksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8
-福建武夷山玉女峰,http://gccncc.v.wscdns.com/gc/wysynf_1/index.m3u8
-福建武夷山玉女峰,http://gcbsc.v.live.baishancdnx.cn/gc/wysynf_1/index.m3u8
-为天使护航,http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
-为天使护航,http://gcbsc.v.live.baishancdnx.cn/gc/zsslsfwsgz_1/index.m3u8
 
 👶丨少儿频道,#genre#
 亲子小游戏,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
@@ -3338,6 +3287,9 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 北京IPTV淘剧场,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 北京IPTV淘娱乐,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 丨经典歌曲,#genre# 
+你还爱我吗杨千嬅,http://em.21dtv.com/songs/60031733.mkv
+王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
+只要你还需要我,https://vd2.bdstatic.com/mda-mhadc7xxeed1u9h4/hd/cae_h264/1628674875162686729/mda-mhadc7xxeed1u9h4.mp4?auth_key=1664419814-0-0-02f9750cec41c7cda6fa9b2911c870a5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1214031609&vid=3692844955239788826&abtest=all
 漫步人生路,http://em.21dtv.com/songs/60070906.mkv
 你的答案,https://vdse.bdstatic.com//70d173d2a2f3679b2875a637bdaa37ea.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-09-24T15%3A25%3A04Z%2F-1%2Fhost%2Ff0e1ee6524f0df465c69524a2bb4cb7e9c40a9fcb6f16cfa0ae32c719b44d25f
 回心转意,https://vdse.bdstatic.com//f4a453f98f388a94c634cf342ffd9e6c.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-09-24T15%3A27%3A47Z%2F-1%2Fhost%2F3ed5de050250a47eaacdea19f052b6698c3d5f577b735cd6dddb12261fdb5f05
