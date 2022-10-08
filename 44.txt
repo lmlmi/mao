@@ -3,7 +3,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 
-"sites":[ 
+"sites":[ {"key": "酷云77(DR)","type": 3,"api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js","ext": "https://kebedd69.github.io/TVbox-interface/js/酷云77.js"},
 {"key":"Kunyu77","name":"🐞七七(推荐)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影视","name":"🔥利奥影视(佰欣园)","type":3,"api":"csp_Lib" ,"searchable":1,"quickSearch":1,"filterable":0},
