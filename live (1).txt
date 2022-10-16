@@ -512,6 +512,7 @@ CCTV17[1920•1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 🇨🇳丨港澳湾,#genre#
+东森电影,http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰中文,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
