@@ -1,5 +1,5 @@
 🇨🇳丨浙江,#genre# 
-北京,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8?blog.ntnas.top
+
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 温州洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
@@ -4711,6 +4711,7 @@ NewTV超级电视剧[1920•1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888
 斗鱼-夜魔人老王,http://epg.112114.xyz/douyu/610972
 
 🌶️丨YY影视,#genre#
+豆瓣电影,http://epg.112114.xyz/douyu/3508304
 英叔全集经典鬼片[1280•720],http://mmitv.top/pltv/yy.php?id=1354869861
 港片鬼片500部[1280•720],http://mmitv.top/pltv/yy.php?id=1353059120
 英叔全集电影[1280•720],http://mmitv.top/pltv/yy.php?id=1353685311
