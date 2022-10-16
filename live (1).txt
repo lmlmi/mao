@@ -1,4 +1,5 @@
 🇨🇳丨浙江,#genre# 
+北京,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8?blog.ntnas.top
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 温州洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
