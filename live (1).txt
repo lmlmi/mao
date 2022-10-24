@@ -1207,11 +1207,7 @@ BaBy,http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&c
 BaBy,http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 👶丨少儿频道,#genre#
-亲子小游戏,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
-小品,http://txtest-xp2p.p2p.huya.com/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1
-英文儿歌,http://lvbaiducdncmn.inter.iqiyi.com//tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73
 14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
-小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 甘肃少儿,http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
 猫和老鼠H,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
@@ -2898,11 +2894,9 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 桥边姑娘,https://vdse.bdstatic.com/8ae4235344c61f9c05ccf3716c84e823.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
 心要你听见,https://vd2.bdstatic.com/mda-mmkiuq7cn9ashxmk/hd/cae_h264/1640095432380287630/mda-mmkiuq7cn9ashxmk.mp4?auth_key=1664422787-0-0-b3c5a69714d5d20fee6b37a61abf0478&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0587512857&vid=8739832468304204579&abtest=all
 张蔷-爱你在心口难开,http://em.21dtv.com/songs/60008040.mkv
-
 离不开你-黄绮珊,https://vd4.bdstatic.com/mda-nic8n9nyn569zru2/576p/h264/1663049399938842325/mda-nic8n9nyn569zru2.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1664422955-0-0-6406e52bd5da842890c065160d162f02&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0755845131&vid=2082793881906919262&abtest=all
 陷阱,https://vd2.bdstatic.com/mda-nawebq0e38pe406i/hd/cae_h264_nowatermark_delogo/1643627429011494082/mda-nawebq0e38pe406i.mp4?auth_key=1664423125-0-0-0f59353e46957b742abe43f123a2cb21&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0925156187&vid=4380165230660130896&abtest=all
 广东爱情故事,https://vd4.bdstatic.com/mda-ja4f9b7x55fm956u/576p/cae_h264/1652483815797333460/mda-ja4f9b7x55fm956u.mp4?auth_key=1664423441-0-0-542ef48423ba4b82501b82ff1e59cc3d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1241431744&vid=4870986233769463162&abtest=all
-需要人陪,https://vd3.bdstatic.com/mda-ih3q9038kt7kzai8/hd/mda-ih3q9038kt7kzai8.mp4?auth_key=1664423558-0-0-975424c21570f24c651970ffb8b67067&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1358359636&vid=5767233705716981967&abtest=all
 一次就好,https://vd4.bdstatic.com/mda-mfb60itk3z005rn0/hd/cae_h264_nowatermark/1623471514506937928/mda-mfb60itk3z005rn0.mp4?auth_key=1664424356-0-0-8fa9febe31a663fbf87f8f64e41d70ca&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2156405742&vid=5860965173874901725&abtest=all
 他不爱我,https://vd3.bdstatic.com/mda-jbqmy6rxebk5ibg9/hd/mda-jbqmy6rxebk5ibg9.mp4?auth_key=1664424677-0-0-b0833563b52d1a1a1531738bdff11ba9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2477399894&vid=6942832397526067521&abtest=all
 郑中基,https://vd4.bdstatic.com/mda-ifhzw8wjmad7mf2c/hd/mda-ifhzw8wjmad7mf2c.mp4?auth_key=1664424862-0-0-2ffe11cd190ca8c3d12847dce29a14b8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2662303251&vid=8971999893384757958&abtest=all
