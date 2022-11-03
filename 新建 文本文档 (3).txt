@@ -1,6 +1,6 @@
 {
 
-"spider":"https://gitee.com/miss-chengxueli/tv/blob/master/%E8%87%AA%E7%94%A8.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20221102.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Cmh0dHBzOi8vZ2l0ZWUuY29tL21pc3MtY2hlbmd4dWVsaS90di9yYXcvbWFzdGVyLyVFNyU5NCVCNSVFOCVBNyU4Ni50eHQ="]}]}],
 
 
