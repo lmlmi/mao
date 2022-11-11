@@ -4,7 +4,7 @@
 
 
 "sites":[
-{"key":"Kunyu77","name":"🐞七七(推荐)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Kunyu77","name":"🐞七七(推荐)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影视","name":"🔥利奥影视(佰欣园)","type":3,"api":"csp_Lib" ,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视(佰欣园)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
