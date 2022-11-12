@@ -35,6 +35,14 @@
 浙江国际,http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
+杭州综合,https://live.hoolo.tv/hztv1/playlist.m3u8?auth_key=1668275687-0-0-f2240241bb094158d6bec68ad5025bfe
+杭州西湖明珠频道,https://live.hoolo.tv/hztv2/playlist.m3u8?auth_key=1668274718-0-0-fa8e00c0a8b5cd21d2c632e3ed9e0812
+杭州生活频道,https://live.hoolo.tv/hztv3/playlist.m3u8?auth_key=1668275696-0-0-12ddce7dd517964d2f446b6d56b7baab
+杭州影视频道,https://live3.hoolo.tv/hztv4/playlist.m3u8?auth_key=1668275974-0-0-a14a1a3ca00d74d7615e90e835042634
+杭州青少体育频道,https://live3.hoolo.tv/hztv5/playlist.m3u8?auth_key=1668278868-0-0-d1e59e229a561c88f642f25a28a4fae9
+杭州六套导视直播,https://live3.hoolo.tv/hztv6/playlist.m3u8?auth_key=1668276292-0-0-081a98341706f785956cfcd06fe9a68c
+建德新闻综合频道,http://livejdrmt.chinamcache.com/live/jdzb02.m3u8
+宁波一套,http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1668272109-0-0-77096a98fb504020f6ca877ac43f4f8f
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
 数码时代,http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
