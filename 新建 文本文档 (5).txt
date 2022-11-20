@@ -3,10 +3,8 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vY2hlbmd4dWVsaTgxOC9tYW9UVi9yYXcvYnJhbmNoL21haW4vbGl2ZSUyMCUyODElMjkudHh0"]}]}],
 
  "sites":[{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVBox/main/MaooXB2/Alist.json"},
-{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"Kunyu77","name":"🐞七七(推荐)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 #{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nkdy","name":"🗽南柯(佰欣园)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name": "🔃天空(佰欣园)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xBPQ_追剧达人","name":"追剧达人〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVBox/main/MaooXB2/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.json"},
 {"key":"mtv_pc_利奥影视","name":"🔥利奥影视(佰欣园)","type":3,"api":"csp_Lib" ,"searchable":1,"quickSearch":1,"filterable":0},
