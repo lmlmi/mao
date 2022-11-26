@@ -4,7 +4,6 @@
 
 
 "sites":[{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVBox/main/MaooXB2/Alist.json"},
-{"key":"csp_biubiu_老电影","name":"🥒老电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/老电影.json"},
 
 
 {"key":"Kunyu77","name":"🐞七七(推荐)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
