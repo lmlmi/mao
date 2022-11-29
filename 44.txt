@@ -4,7 +4,7 @@
 
 
 "sites":[
-{"key":"Kunyu77","name":"🐞七七(推荐)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Kunyu77","name":"🐞七七(佰欣园)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Cokemv", "name": "Cok┃SP","type": 3,"api": "csp_Cokemv","playerType": 1, "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key": "csp_Auete","name": "Aue┃SP","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1, "filterable": 1},
