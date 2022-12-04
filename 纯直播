@@ -2,7 +2,7 @@
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20221124.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
-"sites":[{"key": "csp_biubiu_丶","name": "维护人：佰欣园","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/maoTV/main/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"}],
+"sites":[{"key": "csp_biubiu_丶","name": "佰欣园电视直播    维护人：程雯欣   联系电话：0577110","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/maoTV/main/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"}],
 //解析设置
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
