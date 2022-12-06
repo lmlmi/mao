@@ -5,10 +5,11 @@
 
 "sites":[
 {"key":"Kunyu77","name":"🐞七七(佰欣园)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key": "csp_Cokemv", "name": "Cok(佰欣园)","type": 3,"api": "csp_Cokemv","playerType": 1, "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key": "csp_Auete","name": "Aue(佰欣园)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1, "filterable": 1},
-{ "key": "csp_ny","name": "念影(佰欣园)","type": 3,"api": "csp_Nianying", "searchable": 1, "quickSearch": 1,"filterable": 1},
+{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
+ {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
 {"key": "csp_Bd","name": "bid(佰欣园)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Nmys","name": "🌾农民(佰欣园)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cai999.tk/Nmys/nmys.json"},
 {"key":"mtv_pc_利奥影视","name":"🔥利奥影视(佰欣园)","type":3,"api":"csp_Lib" ,"searchable":1,"quickSearch":1,"filterable":0},
