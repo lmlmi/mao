@@ -1,11 +1,11 @@
 {
-"spider":"https://ghproxy.com/https:/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20221206(3).jar",
+"spider":"img+https://hutool.ml/jar;md5;ac0a983b64a2513ee476b76b8fb0e3be",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 
 "sites":[
 {"key":"Kunyu77","name":"七七(佰欣园)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVBox/main/MaooXB/tutu.txt"},
+{"key":"AppTT","name":"图图1","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVBox/main/MaooXB/tutu.txt"},
 {"key": "csp_Cokemv", "name": "Cok(佰欣园)","type": 3,"api": "csp_Cokemv","playerType": 1, "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key": "csp_Auete","name": "Aue(佰欣园)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1, "filterable": 1},
 {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
