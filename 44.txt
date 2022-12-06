@@ -5,7 +5,7 @@
 
 "sites":[
 {"key":"Kunyu77","name":"七七(佰欣园)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVBox/main/MaooXB/tutu.txt"},
+{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVBox/main/MaooXB/tutu.txt"},
 {"key": "csp_Cokemv", "name": "Cok(佰欣园)","type": 3,"api": "csp_Cokemv","playerType": 1, "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key": "csp_Auete","name": "Aue(佰欣园)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1, "filterable": 1},
 {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
