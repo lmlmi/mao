@@ -1,8 +1,5 @@
 🇨🇳丨浙江,#genre# 
 s,https://vdse.bdstatic.com//cd43bf73abb929439bae784b15b6b3a9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-12-06T04%3A46%3A03Z%2F-1%2Fhost%2Fd7f8769d82f94e4d7d57613868e33086d3d0052e08b24ff8db5afd5a5bbb3260
-
-h ,https://cn-ahhn-cm-01-05.bilivideo.com/upgcxcode/17/11/916701117/916701117_nb3-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1670525898&gen=playurlv2&os=bcache&oi=1879870398&trid=00002cf01c6c4a7049f7ae8ad1cd09fee4e7h&mid=0&platform=html5&upsig=24612bf3cf0d2ffd7cf4ff4e2e905682&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=10102&bvc=vod&nettype=0&bw=36257&logo=80000000
-
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 温州洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
