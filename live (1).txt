@@ -1,5 +1,6 @@
 🇨🇳丨浙江,#genre# 
-退一步,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cds8103c77u8orohvp70&ratio=720p&line=0
+退一,https://www.iesdouyin.com/share/video/7167620923443383587/?region=CN&mid=7167620982948268837&u_code=165mabci3&did=MS4wLjABAAAAxT3aui-e3NEQqyuJAlqNrZ0Aq9J0nahLJUxQeo9XeuA&iid=MS4wLjABAAAAKHPNGKRbIxxL9-_igstO_FVAtddRj2f0ZWXogvzsiU9sKJmwzihwb5-L1HN99l8d&with_sec_did=1&titleType=title&from_ssr=1&utm_source=copy&utm_campaign=client_share&utm_medium=android&app=aweme
+
 
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
