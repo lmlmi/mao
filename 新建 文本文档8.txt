@@ -1,9 +1,10 @@
 {
-"spider":"https://download.kstore.space/download/3376/1128.jar;md5;6A92E85399922FF0FD7813BBC2F09957",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20221208.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 
 "sites":[
+{"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618"},
 {"key":"Kunyu77","name":"🐞七七(佰欣园)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 #{"key": "csp_Cokemv", "name": "Cok(佰欣园)","type": 3,"api": "csp_Cokemv","playerType": 1, "searchable": 1, "quickSearch": 1, "filterable": 1},
