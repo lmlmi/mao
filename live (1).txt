@@ -1534,6 +1534,33 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 
 
 丨经典歌曲,#genre# 
+我爱的人,https://vdse.bdstatic.com//b9db9077928b84d9b842e42334c5953b.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-12-31T07%3A59%3A36Z%2F-1%2Fhost%2F5476f524c191fcc32164b1e300aa5ce9910092877e63401fd87ad3ee24efecf0
+离不开你,https://vd3.bdstatic.com/mda-kie957drtt22k4st/hd/mda-kie957drtt22k4st.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
+别哭我最爱的人,https://vdse.bdstatic.com//bc216e064a532ef52b47f9ed56b6fec7.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-12-31T20%3A07%3A35Z%2F-1%2Fhost%2F1c095d8034181a90ff151a9d10277b658a273ff896865991d024c04c07a4fd52
+情人之间的情人,https://vdse.bdstatic.com//8ab5414efff6e9cbba9f10d2560ada9e.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-01-02T14%3A16%3A38Z%2F-1%2Fhost%2Fd486c351241d6a5df7c1560734e40ddf15d9a9964201bd91d29a8ef494295ab1
+小镇姑娘,https://vd3.bdstatic.com/mda-kk0pnki6pncd33vf/mda-kk0pnki6pncd33vf.mp4?pd=19&vt=1
+怎么是我吧爱你,https://vd3.bdstatic.com/mda-jmvrhi5fckjhs5bk/sc/mda-jmvrhi5fckjhs5bk.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+女人的选择,https://vd3.bdstatic.com/mda-kdcym9s8p5ggqpv1/v1-cae/sc/mda-kdcym9s8p5ggqpv1.mp4?pd=19&vt=1
+情非得已,https://vd3.bdstatic.com/mda-kkg7qukhvx0us3cg/hd/mda-kkg7qukhvx0us3cg.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
+同桌的你,https://vdse.bdstatic.com//203b9a8c0ecf173c3d90a3b2023607b3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-01-02T12%3A43%3A52Z%2F-1%2Fhost%2Fb9aaf536d4e4b257cbc97729cf3995516d982049714e4035fbb2a192cea6a12e
+蓝眼泪,https://vd3.bdstatic.com/mda-mhe93m9vef5gv1bf/720p/h264/1629008789548440624/mda-mhe93m9vef5gv1bf.mp4?pd=19&vt=1
+别想她,https://vd3.bdstatic.com/mda-mhgqshb22dnkjsgw/720p/h264/1629222023010981077/mda-mhgqshb22dnkjsgw.mp4?pd=19&vt=1
+男人不该让女人流泪,https://vd3.bdstatic.com/mda-nfr30jmzd9f4pe9r/sc/cae_h264/1656209658035280196/mda-nfr30jmzd9f4pe9r.mp4?pd=19&vt=1
+醉清风,https://vd3.bdstatic.com/mda-mcnebkmu1p3m974m/sc/cae_h264_nowatermark/1616465908/mda-mcnebkmu1p3m974m.mp4?pd=19&vt=1
+寂寞在唱歌,https://vd3.bdstatic.com//mda-kmrbriis0rxswbh7/mda-kmrbriis0rxswbh7.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-01-01T17%3A36%3A06Z%2F-1%2Fhost%2F48935b1d73278da9f5adf5671aba331d86ccb3c97871069f78c55a386755488a&pd=19&vt=1
+当我想你的时候,http://em.21dtv.com/songs/60139299.mkv
+绅士,http://em.21dtv.com/songs/60139295.mkv
+改变自己,http://em.21dtv.com/songs/60139294.mkv
+走四方,http://em.21dtv.com/songs/60139284.mkv
+十年,http://em.21dtv.com/songs/60139278.mkv
+勇气,http://em.21dtv.com/songs/60139277.mkv
+太委屈,http://em.21dtv.com/songs/60139262.mkv
+姐姐妹妹站起来,http://em.21dtv.com/songs/60139261.mkv
+最美,http://em.21dtv.com/songs/60139243.mkv
+当你老了,http://em.21dtv.com/songs/60139237.mkv
+狂流,http://em.21dtv.com/songs/60139225.mkv
+我的爱情不平凡,http://em.21dtv.com/songs/60139205.mkv
+星星照亮回家的路,http://em.21dtv.com/songs/60139204.mkv
 周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
 周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
 张智霖-现代爱情故事,http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8
