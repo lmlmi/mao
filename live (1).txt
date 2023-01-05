@@ -1534,6 +1534,11 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 
 
 丨经典歌曲,#genre# 
+稻草人,https://vd3.bdstatic.com/mda-mgtd363ib3sdwekt/hd/cae_h264/1627464909372981506/mda-mgtd363ib3sdwekt.mp4?auth_key=1672940102-0-0-4183350785a954b24652c04404cee9d2&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=0302166909&vid=6963379075733852744&abtest=all
+是不是这样的夜晚你才会想起我,https://vd3.bdstatic.com/mda-mgqc5uq20yubb4xw/hd/cae_h264/1627203102509770911/mda-mgqc5uq20yubb4xw.mp4?auth_key=1672941078-0-0-10c5d2976057abdf268ab24f52958e49&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=1278838379&vid=14840379312513198097&abtest=all
+说谎,https://vd4.bdstatic.com/mda-nbpa5w52ms68d2aj/hd/cae_h264_delogo/1645687150782640512/mda-nbpa5w52ms68d2aj.mp4?auth_key=1672941413-0-0-0fca5859ec59cf2dd5575c68aa3ff672&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=0&logid=1613703776&vid=13020473914659166352&abtest=all
+爱我别走,https://vd4.bdstatic.com/mda-nmu358swautzfqt2/hd/cae_h264/1672326640576901239/mda-nmu358swautzfqt2.mp4?auth_key=1672941618-0-0-489dbf044916b656193b999279ce227e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=0&logid=1818051941&vid=7734309860635794295&abtest=all
+把悲伤留给自己,https://vd3.bdstatic.com/mda-mi52chue21s3yv99/hd/cae_h264_nowatermark/1630893717121169008/mda-mi52chue21s3yv99.mp4?auth_key=1672942222-0-0-05afcae74b689f1fda9ca12d68d83ab8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=0&logid=2422412211&vid=17720715407305705867&abtest=all
 想得美,http://em.21dtv.com/songs/60139183.mkv
 妈妈,http://em.21dtv.com/songs/60100020.mkv
 家常饭菜,http://em.21dtv.com/songs/60100030.mkv
