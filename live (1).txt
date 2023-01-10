@@ -1,4 +1,5 @@
 🇨🇳丨歌曲精选合集,#genre# 
+阿,https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
 阿杜,https://vd2.bdstatic.com/mda-pa7hz3qr53yseu7n/576p/h264/1673181942847630804/mda-pa7hz3qr53yseu7n.mp4?auth_key=1673191153-0-0-b7a2471f6897f8a1129861482fabb553&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=2953766992&vid=4016506936103424253&abtest=all
 阿牛,https://vd2.bdstatic.com/mda-pa7j30tn7v49efy2/576p/h264/1673184580075798035/mda-pa7j30tn7v49efy2.mp4?auth_key=1673191242-0-0-870c9a9c5fd28c780898345fd751bd94&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=3041907255&vid=4930497589235861216&abtest=all
 陈小春,https://vd3.bdstatic.com/mda-pa7jrwwc79c0y6i6/576p/h264/1673186518212109633/mda-pa7jrwwc79c0y6i6.mp4?auth_key=1673191261-0-0-33bcc66bb3ab290025b345de333a96c0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=3061732053&vid=4087411245584048084&abtest=all
