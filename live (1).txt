@@ -1,4 +1,4 @@
-🇨🇳丨歌曲精选合集,#genre# 
+歌曲精选合集,#genre# 
 阿杜,https://vd2.bdstatic.com/mda-pa7hz3qr53yseu7n/576p/h264/1673181942847630804/mda-pa7hz3qr53yseu7n.mp4?auth_key=1673191153-0-0-b7a2471f6897f8a1129861482fabb553&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=2953766992&vid=4016506936103424253&abtest=all
 阿牛,https://vd2.bdstatic.com/mda-pa7j30tn7v49efy2/576p/h264/1673184580075798035/mda-pa7j30tn7v49efy2.mp4?auth_key=1673191242-0-0-870c9a9c5fd28c780898345fd751bd94&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=3041907255&vid=4930497589235861216&abtest=all
 陈小春,https://vd3.bdstatic.com/mda-pa7jrwwc79c0y6i6/576p/h264/1673186518212109633/mda-pa7jrwwc79c0y6i6.mp4?auth_key=1673191261-0-0-33bcc66bb3ab290025b345de333a96c0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=3061732053&vid=4087411245584048084&abtest=all
@@ -8,7 +8,7 @@
 陈楚生,https://vd4.bdstatic.com/mda-pa7hprm081kmjtex/576p/h264/1673181062599478450/mda-pa7hprm081kmjtex.mp4?auth_key=1673191120-0-0-861707252311c6e0ab59584533cddeac&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=2920893520&vid=4699478131636856442&abtest=all
 阿木,https://vd4.bdstatic.com/mda-pa7iye30hy5pj3m8/576p/h264/1673184407198496322/mda-pa7iye30hy5pj3m8.mp4?auth_key=1673191218-0-0-9431438fc367dd83219eec6086ec6a05&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=3018471964&vid=3945546590245638315&abtest=all
 啊木,https://vd3.bdstatic.com/mda-pa7itthk28fxypvb/576p/h264/1673184117017366222/mda-pa7itthk28fxypvb.mp4?auth_key=1673191195-0-0-a78a82ebee8e8f4d8537d45810623765&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=2994935496&vid=4609778796000544967&abtest=all
-🇨🇳丨浙江,#genre# 
+浙江,#genre# 
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 温州洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
@@ -75,7 +75,7 @@
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
 
-🇨🇳丨央视频道,#genre#
+央视频道,#genre#
 CCTV-1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
@@ -161,7 +161,7 @@ CETV4,http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
 CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-英语,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 
-🇨🇳丨卫视频道,#genre#
+卫视频道,#genre#
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 北京卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
 重庆卫视,http://183.207.255.197/live/program/live/cqws/1300000/mnf.m3u8
@@ -222,7 +222,7 @@ CGTN-英语,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
-🇨🇳丨央视蓝光,#genre#
+央视蓝光,#genre#
 CCTV1[1920•1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1[1920•1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1[1920•1080],http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
@@ -298,7 +298,7 @@ CCTV17[1920•1080],http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17[1920•1080],http://39.134.65.181/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17[1920•1080],http://39.134.65.183/PLTV/88888888/224/3221225708/index.m3u8
 
-🇨🇳丨卫视蓝光,#genre#
+卫视蓝光,#genre#
 江西卫视[1920•1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225705/index.m3u8
 湖南卫视[1920•1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
 江苏卫视[1920•1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225743/index.m3u8
@@ -334,7 +334,7 @@ CCTV17[1920•1080],http://39.134.65.183/PLTV/88888888/224/3221225708/index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-🇨🇳丨港澳湾,#genre#
+港澳湾,#genre#
 美亚电影,https://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 龙祥电影,https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
@@ -500,7 +500,7 @@ AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=1
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
-👶丨少儿频道,#genre#
+少儿频道,#genre#
 14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
 猫和老鼠H,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
