@@ -1,4 +1,5 @@
 歌曲精选合集,#genre#
+sf,http://gg.gg/12z45j
  动力火车1,https://vd2.bdstatic.com/mda-paas8kvbp5r80adb/576p/h264/1673477532644940764/mda-paas8kvbp5r80adb.mp4?auth_key=1673539094-0-0-2c761890d48f3a78caa14342da284da6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=1694702191&vid=4353707240978891563&abtest=all
 动力火车2,https://vd2.bdstatic.com/mda-pabgipqz4kxkj3wx/576p/h264/1673526121935312395/mda-pabgipqz4kxkj3wx.mp4?auth_key=1673539146-0-0-ef058a945d81678f2939ee3bb5fe33b1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=1746383349&vid=4298764859754924116&abtest=all
 动力火车3,https://vd4.bdstatic.com/mda-pabhncttduf8t5ru/576p/h264/1673527099142280095/mda-pabhncttduf8t5ru.mp4?auth_key=1673539186-0-0-4a6229b78acc27b26c693cdf6313a80c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=1786851799&vid=4466416936660571588&abtest=all
