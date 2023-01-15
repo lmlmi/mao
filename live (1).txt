@@ -297,6 +297,29 @@ GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+国外少儿频道,#genre#
+Aghapy,https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+brat,https://brat-rakuten.amagi.tv/playlist.m3u8
+bumblebee,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+cutezone,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+lego toons,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+newwork,https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+arabia,https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+poutuguese,https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+duck tv,https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+happykids,https://happykids-roku.amagi.tv/playlist.m3u8
+junior,https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+kidoodle.https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+lego channel,https://legochannel-roku.amagi.tv/playlist.m3u8
+majid,https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+mbc,https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+mondo,https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+moonbug,https://moonbug-rokuus.amagi.tv/playlist.m3u8
+planeta,https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+sat7,https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+three angels,https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+toon goggles,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+trt cocuk,https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 少儿频道,#genre#
 14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
 猫和老鼠H,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
