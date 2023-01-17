@@ -173,6 +173,17 @@ GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+玛莎与熊,#genre#
+玛莎与熊（处处是新年,http://gg.gg/12zxve
+【玛莎与熊友情四重奏,http://gg.gg/12zxw8
+玛莎与熊(疯狂星期五),http://gg.gg/12zxwi
+【玛莎与熊中文普通话神秘故事,http://gg.gg/12zxwq
+【玛莎与熊中文普通话小孩为难,http://gg.gg/12zxx0
+【玛莎与熊中文普通话想象力的力量,http://gg.gg/12zxx3
+【玛莎与熊中文普通话归途不易,http://gg.gg/12zxxc
+【玛莎与熊中文普通话滑雪,http://gg.gg/12zxxu
+【玛莎与熊中文普通话摇滚季节,http://gg.gg/12zxyd
+【玛莎与熊中文普通话惊喜三,http://gg.gg/12zxyo
 
 少儿频道,#genre#
 14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
