@@ -186,6 +186,10 @@ GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 【玛莎与熊中文普通话惊喜三,http://gg.gg/12zxyo
 
 少儿频道,#genre#
+玛莎与熊一,http://gg.gg/13181h
+玛莎与熊二,http://gg.gg/13181k
+玛莎与熊三,http://gg.gg/13181q
+玛莎与熊四,http://gg.gg/131821
 14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
 猫和老鼠H,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
@@ -2584,6 +2588,9 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
 
 歌曲精选合集,#genre#
+谭咏麟一,http://gg.gg/131824
+谭咏麟二,http://gg.gg/131829
+谭咏麟三,http://gg.gg/13182a
 王杰一,http://gg.gg/12zwyk
 王杰二,http://gg.gg/12zwyo
 王杰三,http://gg.gg/12zwyr
