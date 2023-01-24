@@ -172,20 +172,10 @@ GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 澳门卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-玛莎与熊,#genre#
-玛莎与熊（处处是新年,http://gg.gg/12zxve
-【玛莎与熊友情四重奏,http://gg.gg/12zxw8
-玛莎与熊(疯狂星期五),http://gg.gg/12zxwi
-【玛莎与熊中文普通话神秘故事,http://gg.gg/12zxwq
-【玛莎与熊中文普通话小孩为难,http://gg.gg/12zxx0
-【玛莎与熊中文普通话想象力的力量,http://gg.gg/12zxx3
-【玛莎与熊中文普通话归途不易,http://gg.gg/12zxxc
-【玛莎与熊中文普通话滑雪,http://gg.gg/12zxxu
-【玛莎与熊中文普通话摇滚季节,http://gg.gg/12zxyd
-【玛莎与熊中文普通话惊喜三,http://gg.gg/12zxyo
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3
 
-少儿频道,#genre#
+少儿频道,#genre# 
+玛莎与熊一,https://vd2.bdstatic.com/mda-pagqhjduc8f5a2my/hd/cae_h264/1673980859250629175/mda-pagqhjduc8f5a2my.mp4?auth_key=1674551788-0-0-13b5ca25e6d9a2976491c1512ba70d93&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=2787985130&vid=4756621752309213013&abtest=all
 玛莎与熊一,http://gg.gg/13181h
 玛莎与熊二,http://gg.gg/13181k
 玛莎与熊三,http://gg.gg/13181q
