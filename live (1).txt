@@ -175,12 +175,25 @@ GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3
 
 少儿频道,#genre# 
-玛莎与熊一,https://vd2.bdstatic.com/mda-pagqhjduc8f5a2my/hd/cae_h264/1673980859250629175/mda-pagqhjduc8f5a2my.mp4?auth_key=1674551788-0-0-13b5ca25e6d9a2976491c1512ba70d93&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=2787985130&vid=4756621752309213013&abtest=all
 玛莎与熊一,http://gg.gg/13181h
 玛莎与熊二,http://gg.gg/13181k
 玛莎与熊三,http://gg.gg/13181q
 玛莎与熊四,http://gg.gg/131821
-14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
+超级简单的歌一,http://gg.gg/131frj
+超级简单的歌二,http://gg.gg/131frm
+超级简单的歌三,http://gg.gg/131frp
+超级简单的歌四,http://gg.gg/131frq
+超级简单的歌五,http://gg.gg/131fru
+超级简单的歌六,http://gg.gg/131frw
+超级简单的歌七,http://gg.gg/131frz
+超级简单的歌八,http://gg.gg/131fs1
+超级简单的歌九,http://gg.gg/131fs4
+超级简单的歌十,http://gg.gg/131fs7
+超级简单的歌十二,http://gg.gg/131fs9
+超级简单的歌十三,http://gg.gg/131fsb
+超级简单的歌十四,http://gg.gg/131fse
+超级简单的歌十五,http://gg.gg/131fsf
+超级简单的歌十六,http://gg.gg/131fsj
 猫和老鼠H,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
 猫和老鼠,http://tx.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=6664ed8cca112d7969a8054d5cca0e16&wsTime=61c07290&uid=581998485&seqid=1640520617000.0&t=103&uuid=3033046507&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
